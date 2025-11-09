@@ -1,0 +1,152 @@
+[
+    {
+        "name": "White",
+        "label": "white",
+        "hex": "#FFFFFF"
+    },
+    {
+        "name": "Off White",
+        "label": "off_white",
+        "hex": "#F8F8F8"
+    },
+    {
+        "name": "Dark Blue",
+        "label": "dark_blue",
+        "hex": "#00008B"
+    },
+    {
+        "name": "Blue",
+        "label": "blue",
+        "hex": "#0000FF"
+    },
+    {
+        "name": "Light Blue",
+        "label": "light_blue",
+        "hex": "#ADD8E6"
+    },
+    {
+        "name": "Dark Green",
+        "label": "dark_green",
+        "hex": "#006400"
+    },
+    {
+        "name": "Green",
+        "label": "green",
+        "hex": "#008000"
+    },
+    {
+        "name": "Light Green",
+        "label": "light_green",
+        "hex": "#90EE90"
+    },
+    {
+        "name": "Gray",
+        "label": "gray",
+        "hex": "#808080"
+    },
+    {
+        "name": "Light Gray",
+        "label": "light_gray",
+        "hex": "#D3D3D3"
+    },
+    {
+        "name": "Dark Gray",
+        "label": "dark_gray",
+        "hex": "#A9A9A9"
+    },
+    {
+        "name": "Brown",
+        "label": "brown",
+        "hex": "#A52A2A"
+    },
+    {
+        "name": "Light Brown",
+        "label": "light_brown",
+        "hex": "#CD853F"
+    },
+    {
+        "name": "Dark Brown",
+        "label": "dark_brown",
+        "hex": "#654321"
+    },
+    {
+        "name": "Light Yellow",
+        "label": "light_yellow",
+        "hex": "#FFFFE0"
+    },
+    {
+        "name": "Yellow",
+        "label": "yellow",
+        "hex": "#FFFF00"
+    },
+    {
+        "name": "Dark Yellow",
+        "label": "dark_yellow",
+        "hex": "#CCCC00"
+    },
+    {
+        "name": "Light Orange",
+        "label": "light_orange",
+        "hex": "#FFD580"
+    },
+    {
+        "name": "Orange",
+        "label": "orange",
+        "hex": "#FFA500"
+    },
+    {
+        "name": "Dark Orange",
+        "label": "dark_orange",
+        "hex": "#FF8C00"
+    },
+    {
+        "name": "Light Red",
+        "label": "light_red",
+        "hex": "#FF7F7F"
+    },
+    {
+        "name": "Red",
+        "label": "red",
+        "hex": "#FF0000"
+    },
+    {
+        "name": "Dark Red",
+        "label": "dark_red",
+        "hex": "#8B0000"
+    },
+    {
+        "name": "Light Pink",
+        "label": "light_pink",
+        "hex": "#FFB6C1"
+    },
+    {
+        "name": "Pink",
+        "label": "pink",
+        "hex": "#FFC0CB"
+    },
+    {
+        "name": "Dark Pink",
+        "label": "dark_pink",
+        "hex": "#C71585"
+    },
+    {
+        "name": "Light Purple",
+        "label": "light_purple",
+        "hex": "#D8BFD8"
+    },
+    {
+        "name": "Purple",
+        "label": "purple",
+        "hex": "#800080"
+    },
+    {
+        "name": "Dark Purple",
+        "label": "dark_purple",
+        "hex": "#4B0082"
+    },
+    {
+        "name": "Black",
+        "label": "black",
+        "hex": "#000000"
+    }
+]
